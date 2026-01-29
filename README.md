@@ -31,9 +31,3 @@ This project focuses on **image-based classification**, not real-time detection.
 
 ---
 
-## ⚙️ How to Run
-
-1️⃣ Clone the repository
-```bash
-git clone https://github.com/Dakshhhh-ops/face-mask-prediction.git
-cd face-mask-prediction
